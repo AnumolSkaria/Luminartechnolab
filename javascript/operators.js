@@ -1,0 +1,7 @@
+var no1=Number(prompt("enter the first number"))
+var no2=Number(prompt("enter the second number"))
+console.log(no1-no2)
+console.log(no1+no2)
+console.log(no1*no2)
+console.log(no1/no2)
+console.log(no1%no2)

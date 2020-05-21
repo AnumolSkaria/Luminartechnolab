@@ -1,0 +1,9 @@
+h1
+{
+    color: #5e068a;
+}
+*{box-sizing: content-box}
+#div
+{
+    box-sizing: initial;
+}

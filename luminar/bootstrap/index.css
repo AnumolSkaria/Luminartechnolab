@@ -1,0 +1,91 @@
+.orange-color
+{
+    color: #5e068a99;
+}
+h3
+{
+    color: #5e068a;
+    padding-left: 120px;
+}
+#btn
+{
+    color: #5e068a;
+    /*background-color:#5e068a;*/
+    /*background-color: #9e6ab9;*/
+    border: 2px solid #5e068a;
+    border-radius: 16px;
+    width: 130px;
+    height: 40px;
+    background: transparent;
+}
+
+h1
+{
+    color: #5e068a;
+}
+h4
+{
+    color: #5e068a;
+}
+#img
+{
+    width: 450px;
+    height: 400px;
+    margin-left: 5px;
+}
+#pythonimg
+{
+    width: 328px;
+    height: 200px;
+}
+#n
+{
+    position: fixed;
+    width: 100%;
+     transition: 2s;
+    background-color: white;
+    height: 70px;
+    /*color: black;*/
+    /*overflow: hidden;*/
+}
+#navbarNavAltMarkup
+{
+    color: black;
+    overflow: hidden;
+    padding-left: 600px;
+    transition: 2s;
+}
+
+#a
+{
+    /*color: red;*/
+}
+
+
+#navbarNav
+{
+    padding-left: 450px;
+    /*color: black;*/
+}
+
+#li{
+    color: black;
+}
+.nav-link
+{
+    color: black;
+}
+.nav-link:hover
+{
+    color: #5e068a;
+}
+
+
+#input
+{
+    width: 200px;
+}
+
+
+
+
